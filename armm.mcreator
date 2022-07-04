@@ -1,0 +1,68 @@
+{
+  "mod_elements": [
+    {
+      "name": "MagicStoneblue",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magic_stoneblue",
+      "path": "~/item"
+    },
+    {
+      "name": "Armm",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armm"
+    },
+    {
+      "name": "MagicStonered",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magic_stonered",
+      "path": "~/item"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabarmm": "Armm",
+      "item.armm.magic_stoneblue": "Magic Stoneblue",
+      "item.armm.magic_stonered": "Magic Stonered"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "item",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "armm",
+    "modName": "阿順魔法",
+    "version": "1.0.0",
+    "description": "阿順的夢想",
+    "author": "C\u0026B",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.armm",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}
