@@ -50,6 +50,15 @@
       "locked_code": false,
       "registry_name": "different_dimension_storage_bag",
       "path": "~/item"
+    },
+    {
+      "name": "XingXing",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xing_xing",
+      "path": "~/item"
     }
   ],
   "variable_elements": [],
@@ -59,6 +68,7 @@
       "item.armm.different_dimension_storage_bag": "異次元收納袋",
       "itemGroup.tabarmm": "阿順魔法",
       "item.armm.magic_stoneblue": "藍色魔法石",
+      "item.armm.xing_xing": "Xing Xing",
       "advancements.magic_path.descr": "踏上魔法之路，成為大法師",
       "advancements.magic_path.title": "踏上魔法之路!",
       "item.armm.magic_stonered": "紅色魔法石"
@@ -67,6 +77,7 @@
       "item.armm.different_dimension_storage_bag": "Different Dimension Storage Bag",
       "itemGroup.tabarmm": "Armm",
       "item.armm.magic_stoneblue": "Magic Stone Blue",
+      "item.armm.xing_xing": "Xing Xing",
       "advancements.magic_path.descr": "Embark on the path of magic and become an archmage",
       "advancements.magic_path.title": "Embark on the path of magic!",
       "item.armm.magic_stonered": "Magic Stone Red"
@@ -75,6 +86,7 @@
       "item.armm.different_dimension_storage_bag": "異次元收納袋",
       "itemGroup.tabarmm": "阿順魔法",
       "item.armm.magic_stoneblue": "藍色魔法石",
+      "item.armm.xing_xing": "Xing Xing",
       "advancements.magic_path.descr": "踏上魔法之路，成為大法師",
       "advancements.magic_path.title": "踏上魔法之路!",
       "item.armm.magic_stonered": "紅色魔法石"
