@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "armm:items/yi_ci_yuan_shou_na_dai_"
+  }
+}

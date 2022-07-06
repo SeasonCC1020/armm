@@ -3,16 +3,16 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "mr_stone",
-    "customModelName": "Normal",
-    "name": "Magic Stone Red",
-    "rarity": "RARE",
+    "texture": "yi_ci_yuan_shou_na_dai_",
+    "customModelName": "Tool",
+    "name": "Different Dimension Storage Bag",
+    "rarity": "UNCOMMON",
     "creativeTab": {
       "value": "CUSTOM:Armm"
     },
-    "stackSize": 1,
+    "stackSize": 64,
     "enchantability": 0,
-    "useDuration": 32,
+    "useDuration": 0,
     "toolType": 1.0,
     "damageCount": 0,
     "recipeRemainder": {
@@ -26,8 +26,8 @@
     "damageVsEntity": 0.0,
     "specialInfo": [],
     "hasGlow": false,
-    "guiBoundTo": "<NONE>",
-    "inventorySize": 9,
+    "guiBoundTo": "PackGUI",
+    "inventorySize": 220,
     "inventoryStackSize": 64,
     "hasDispenseBehavior": false,
     "isFood": false,

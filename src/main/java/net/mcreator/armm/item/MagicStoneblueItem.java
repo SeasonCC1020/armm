@@ -10,7 +10,7 @@ import net.mcreator.armm.init.ArmmModTabs;
 
 public class MagicStoneblueItem extends Item {
 	public MagicStoneblueItem() {
-		super(new Item.Properties().tab(ArmmModTabs.TAB_ARMM).stacksTo(1).rarity(Rarity.COMMON));
+		super(new Item.Properties().tab(ArmmModTabs.TAB_ARMM).stacksTo(1).rarity(Rarity.RARE));
 	}
 
 	@Override
