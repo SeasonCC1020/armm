@@ -25,6 +25,14 @@
       "locked_code": false,
       "registry_name": "magic_stonered",
       "path": "~/item"
+    },
+    {
+      "name": "MagicPath",
+      "type": "achievement",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magic_path"
     }
   ],
   "variable_elements": [],
@@ -33,12 +41,16 @@
     "zh_tw": {
       "itemGroup.tabarmm": "阿順魔法",
       "item.armm.magic_stoneblue": "藍色魔法石",
+      "advancements.magic_path.descr": "踏上魔法之路，成為大法師",
+      "advancements.magic_path.title": "踏上魔法之路!",
       "item.armm.magic_stonered": "紅色魔法石"
     },
     "en_us": {
       "itemGroup.tabarmm": "Armm",
-      "item.armm.magic_stoneblue": "Magic Stoneblue",
-      "item.armm.magic_stonered": "Magic Stonered"
+      "item.armm.magic_stoneblue": "Magic Stone Blue",
+      "advancements.magic_path.descr": "Embark on the path of magic and become an archmage",
+      "advancements.magic_path.title": "Embark on the path of magic!",
+      "item.armm.magic_stonered": "Magic Stone Red"
     }
   },
   "foldersRoot": {
